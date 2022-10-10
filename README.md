@@ -12,3 +12,5 @@ How to use the tool
   just choose someones ip and then port
 
   sleep is time between packets
+
+if you want it to say your own name just go in and edit whats in quotes
